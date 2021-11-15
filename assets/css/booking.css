@@ -1,0 +1,8 @@
+.hd-table thead tr th {
+  background-color: #1d1d1d !important;
+  color: #cccccc !important;
+  text-transform: uppercase;
+}
+.hd-table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.06) !important;
+}
